@@ -117,3 +117,7 @@ agents/devin-knowledge.json
 
 # pagefind
 _pagefind/
+
+# dependency-cruiser reports and optional cache
+/dependency-report.*
+/.dependency-cruiser-cache/
